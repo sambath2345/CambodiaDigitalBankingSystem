@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CambodiaDigitalBankingSystem.SHEARED/1.0.0": {
+        "runtime": {
+          "CambodiaDigitalBankingSystem.SHEARED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CambodiaDigitalBankingSystem.SHEARED/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\bin\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.deps.json
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\bin\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\bin\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\obj\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\obj\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.AssemblyInfoInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\obj\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.AssemblyInfo.cs
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\obj\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.csproj.CoreCompileInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\obj\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\obj\Debug\net9.0\refint\CambodiaDigitalBankingSystem.APPLICATION.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\obj\Debug\net9.0\CambodiaDigitalBankingSystem.APPLICATION.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.APPLICATION\obj\Debug\net9.0\ref\CambodiaDigitalBankingSystem.APPLICATION.dll

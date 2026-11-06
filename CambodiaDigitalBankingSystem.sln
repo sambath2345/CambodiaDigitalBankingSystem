@@ -1,0 +1,56 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambodiaDigitalBankingSystem.API", "CambodiaDigitalBankingSystem.API\CambodiaDigitalBankingSystem.API.csproj", "{D6AE4192-CE07-4038-A61F-BE80FDA6BAFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B05A8C6E-22F6-48BA-942B-E3D0B28017B0}"
+	ProjectSection(SolutionItems) = preProject
+		Deployment\compose.yaml = Deployment\compose.yaml
+		Deployment\compose.dev.yaml = Deployment\compose.dev.yaml
+		Deployment\.env.example = Deployment\.env.example
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambodiaDigitalBankingSystem.CORE", "CambodiaDigitalBankingSystem.CORE\CambodiaDigitalBankingSystem.CORE.csproj", "{A29E0F76-CB65-44F4-853B-F633798DA908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambodiaDigitalBankingSystem.INFRASTRUCTURE", "CambodiaDigitalBankingSystem.INFRASTRUCTURE\CambodiaDigitalBankingSystem.INFRASTRUCTURE.csproj", "{E9D34A75-BA33-4C12-A2C7-1DD458B5DCD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambodiaDigitalBankingSystem.LOGGING", "CambodiaDigitalBankingSystem.LOGGING\CambodiaDigitalBankingSystem.LOGGING.csproj", "{C7D2AD97-2CB1-40CB-A440-2F31C7765F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambodiaDigitalBankingSystem.SHARED", "CambodiaDigitalBankingSystem.SHARED\CambodiaDigitalBankingSystem.SHARED.csproj", "{FE74F09D-F297-4BDD-861C-A9FA0E481C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambodiaDigitalBankingSystem.APPLICATION", "CambodiaDigitalBankingSystem.APPLICATION\CambodiaDigitalBankingSystem.APPLICATION.csproj", "{EC0911BF-28F9-4C1D-9F7A-9E80484C157C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", "{CD92EF4C-401D-44BF-A80A-EBFC57608E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6AE4192-CE07-4038-A61F-BE80FDA6BAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AE4192-CE07-4038-A61F-BE80FDA6BAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AE4192-CE07-4038-A61F-BE80FDA6BAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AE4192-CE07-4038-A61F-BE80FDA6BAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29E0F76-CB65-44F4-853B-F633798DA908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29E0F76-CB65-44F4-853B-F633798DA908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29E0F76-CB65-44F4-853B-F633798DA908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29E0F76-CB65-44F4-853B-F633798DA908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D34A75-BA33-4C12-A2C7-1DD458B5DCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D34A75-BA33-4C12-A2C7-1DD458B5DCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D34A75-BA33-4C12-A2C7-1DD458B5DCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D34A75-BA33-4C12-A2C7-1DD458B5DCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D2AD97-2CB1-40CB-A440-2F31C7765F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D2AD97-2CB1-40CB-A440-2F31C7765F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D2AD97-2CB1-40CB-A440-2F31C7765F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D2AD97-2CB1-40CB-A440-2F31C7765F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE74F09D-F297-4BDD-861C-A9FA0E481C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE74F09D-F297-4BDD-861C-A9FA0E481C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE74F09D-F297-4BDD-861C-A9FA0E481C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE74F09D-F297-4BDD-861C-A9FA0E481C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0911BF-28F9-4C1D-9F7A-9E80484C157C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0911BF-28F9-4C1D-9F7A-9E80484C157C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0911BF-28F9-4C1D-9F7A-9E80484C157C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0911BF-28F9-4C1D-9F7A-9E80484C157C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
+

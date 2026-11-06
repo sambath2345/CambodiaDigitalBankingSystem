@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Dto\" />
+      <Folder Include="Entity\" />
+      <Folder Include="Enums\" />
+      <Folder Include="Mapper\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CambodiaDigitalBankingSystem.SHARED\CambodiaDigitalBankingSystem.SHARED.csproj" />
+    </ItemGroup>
+
+</Project>
+

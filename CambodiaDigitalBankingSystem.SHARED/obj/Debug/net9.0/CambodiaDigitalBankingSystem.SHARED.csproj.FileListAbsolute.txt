@@ -1,0 +1,11 @@
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\bin\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.deps.json
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\bin\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\bin\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.AssemblyInfoInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.AssemblyInfo.cs
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.csproj.CoreCompileInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\obj\Debug\net9.0\refint\CambodiaDigitalBankingSystem.SHARED.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHARED\obj\Debug\net9.0\ref\CambodiaDigitalBankingSystem.SHARED.dll

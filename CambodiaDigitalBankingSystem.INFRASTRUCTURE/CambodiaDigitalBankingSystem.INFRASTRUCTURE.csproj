@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="DataAccess\" />
+      <Folder Include="Repository\" />
+      <Folder Include="Service\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CambodiaDigitalBankingSystem.APPLICATION\CambodiaDigitalBankingSystem.APPLICATION.csproj" />
+      <ProjectReference Include="..\CambodiaDigitalBankingSystem.CORE\CambodiaDigitalBankingSystem.CORE.csproj" />
+      <ProjectReference Include="..\CambodiaDigitalBankingSystem.SHARED\CambodiaDigitalBankingSystem.SHARED.csproj" />
+    </ItemGroup>
+
+</Project>
+

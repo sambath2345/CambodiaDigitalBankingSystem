@@ -1,0 +1,15 @@
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\bin\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.deps.json
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\bin\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\bin\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\bin\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\bin\Debug\net9.0\CambodiaDigitalBankingSystem.SHARED.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.csproj.AssemblyReference.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.AssemblyInfoInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.AssemblyInfo.cs
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.csproj.CoreCompileInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\Cambodia.B79E1975.Up2Date
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\refint\CambodiaDigitalBankingSystem.CORE.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\CambodiaDigitalBankingSystem.CORE.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.CORE\obj\Debug\net9.0\ref\CambodiaDigitalBankingSystem.CORE.dll

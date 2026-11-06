@@ -1,0 +1,233 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Microsoft.AspNetCore.OpenApi/9.0.15": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.OpenApi": "1.6.17"
+        },
+        "compile": {
+          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Microsoft.OpenApi/1.6.17": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CambodiaDigitalBankingSystem.APPLICATION/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.APPLICATION.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.APPLICATION.dll": {}
+        }
+      },
+      "CambodiaDigitalBankingSystem.CORE/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "CambodiaDigitalBankingSystem.SHARED": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.CORE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.CORE.dll": {}
+        }
+      },
+      "CambodiaDigitalBankingSystem.INFRASTRUCTURE/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "CambodiaDigitalBankingSystem.APPLICATION": "1.0.0",
+          "CambodiaDigitalBankingSystem.CORE": "1.0.0",
+          "CambodiaDigitalBankingSystem.SHARED": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.INFRASTRUCTURE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.INFRASTRUCTURE.dll": {}
+        }
+      },
+      "CambodiaDigitalBankingSystem.SHARED/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.SHARED.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.SHARED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.AspNetCore.OpenApi/9.0.15": {
+      "sha512": "QQW4lLEgMMgVSAlTocaoEf5xZstKZFLyIYtrRP/bq3BmvsJkU8ugiU7MaUWz4vEednZLNhGq1JSZq22QFQqIfg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.openapi/9.0.15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll",
+        "lib/net9.0/Microsoft.AspNetCore.OpenApi.xml",
+        "microsoft.aspnetcore.openapi.9.0.15.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.nuspec"
+      ]
+    },
+    "Microsoft.OpenApi/1.6.17": {
+      "sha512": "Le+kehlmrlQfuDFUt1zZ2dVwrhFQtKREdKBo+rexOwaCoYP0/qpgT9tLxCsZjsgR5Itk1UKPcbgO+FyaNid/bA==",
+      "type": "package",
+      "path": "microsoft.openapi/1.6.17",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/netstandard2.0/Microsoft.OpenApi.dll",
+        "lib/netstandard2.0/Microsoft.OpenApi.pdb",
+        "lib/netstandard2.0/Microsoft.OpenApi.xml",
+        "microsoft.openapi.1.6.17.nupkg.sha512",
+        "microsoft.openapi.nuspec"
+      ]
+    },
+    "CambodiaDigitalBankingSystem.APPLICATION/1.0.0": {
+      "type": "project",
+      "path": "../CambodiaDigitalBankingSystem.APPLICATION/CambodiaDigitalBankingSystem.APPLICATION.csproj",
+      "msbuildProject": "../CambodiaDigitalBankingSystem.APPLICATION/CambodiaDigitalBankingSystem.APPLICATION.csproj"
+    },
+    "CambodiaDigitalBankingSystem.CORE/1.0.0": {
+      "type": "project",
+      "path": "../CambodiaDigitalBankingSystem.CORE/CambodiaDigitalBankingSystem.CORE.csproj",
+      "msbuildProject": "../CambodiaDigitalBankingSystem.CORE/CambodiaDigitalBankingSystem.CORE.csproj"
+    },
+    "CambodiaDigitalBankingSystem.INFRASTRUCTURE/1.0.0": {
+      "type": "project",
+      "path": "../CambodiaDigitalBankingSystem.INFRASTRUCTURE/CambodiaDigitalBankingSystem.INFRASTRUCTURE.csproj",
+      "msbuildProject": "../CambodiaDigitalBankingSystem.INFRASTRUCTURE/CambodiaDigitalBankingSystem.INFRASTRUCTURE.csproj"
+    },
+    "CambodiaDigitalBankingSystem.SHARED/1.0.0": {
+      "type": "project",
+      "path": "../CambodiaDigitalBankingSystem.SHARED/CambodiaDigitalBankingSystem.SHARED.csproj",
+      "msbuildProject": "../CambodiaDigitalBankingSystem.SHARED/CambodiaDigitalBankingSystem.SHARED.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "CambodiaDigitalBankingSystem.APPLICATION >= 1.0.0",
+      "CambodiaDigitalBankingSystem.CORE >= 1.0.0",
+      "CambodiaDigitalBankingSystem.INFRASTRUCTURE >= 1.0.0",
+      "CambodiaDigitalBankingSystem.SHARED >= 1.0.0",
+      "Microsoft.AspNetCore.OpenApi >= 9.0.15"
+    ]
+  },
+  "packageFolders": {
+    "/root/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/src/CambodiaDigitalBankingSystem.API/CambodiaDigitalBankingSystem.API.csproj",
+      "projectName": "CambodiaDigitalBankingSystem.API",
+      "projectPath": "/src/CambodiaDigitalBankingSystem.API/CambodiaDigitalBankingSystem.API.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/src/CambodiaDigitalBankingSystem.API/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/root/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/src/CambodiaDigitalBankingSystem.APPLICATION/CambodiaDigitalBankingSystem.APPLICATION.csproj": {
+              "projectPath": "/src/CambodiaDigitalBankingSystem.APPLICATION/CambodiaDigitalBankingSystem.APPLICATION.csproj"
+            },
+            "/src/CambodiaDigitalBankingSystem.CORE/CambodiaDigitalBankingSystem.CORE.csproj": {
+              "projectPath": "/src/CambodiaDigitalBankingSystem.CORE/CambodiaDigitalBankingSystem.CORE.csproj"
+            },
+            "/src/CambodiaDigitalBankingSystem.INFRASTRUCTURE/CambodiaDigitalBankingSystem.INFRASTRUCTURE.csproj": {
+              "projectPath": "/src/CambodiaDigitalBankingSystem.INFRASTRUCTURE/CambodiaDigitalBankingSystem.INFRASTRUCTURE.csproj"
+            },
+            "/src/CambodiaDigitalBankingSystem.SHARED/CambodiaDigitalBankingSystem.SHARED.csproj": {
+              "projectPath": "/src/CambodiaDigitalBankingSystem.SHARED/CambodiaDigitalBankingSystem.SHARED.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[9.0.15, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.320/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

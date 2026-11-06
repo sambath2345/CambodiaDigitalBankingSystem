@@ -1,0 +1,11 @@
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\bin\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.deps.json
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\bin\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\bin\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.AssemblyInfoInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.AssemblyInfo.cs
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.csproj.CoreCompileInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\obj\Debug\net9.0\refint\CambodiaDigitalBankingSystem.SHEARED.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\obj\Debug\net9.0\CambodiaDigitalBankingSystem.SHEARED.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.SHEARED\obj\Debug\net9.0\ref\CambodiaDigitalBankingSystem.SHEARED.dll

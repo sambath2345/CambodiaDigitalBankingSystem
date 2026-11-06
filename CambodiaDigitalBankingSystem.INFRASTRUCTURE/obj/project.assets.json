@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "CambodiaDigitalBankingSystem.APPLICATION/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.APPLICATION.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.APPLICATION.dll": {}
+        }
+      },
+      "CambodiaDigitalBankingSystem.CORE/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "CambodiaDigitalBankingSystem.SHARED": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.CORE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.CORE.dll": {}
+        }
+      },
+      "CambodiaDigitalBankingSystem.SHARED/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.SHARED.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CambodiaDigitalBankingSystem.SHARED.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CambodiaDigitalBankingSystem.APPLICATION/1.0.0": {
+      "type": "project",
+      "path": "../CambodiaDigitalBankingSystem.APPLICATION/CambodiaDigitalBankingSystem.APPLICATION.csproj",
+      "msbuildProject": "../CambodiaDigitalBankingSystem.APPLICATION/CambodiaDigitalBankingSystem.APPLICATION.csproj"
+    },
+    "CambodiaDigitalBankingSystem.CORE/1.0.0": {
+      "type": "project",
+      "path": "../CambodiaDigitalBankingSystem.CORE/CambodiaDigitalBankingSystem.CORE.csproj",
+      "msbuildProject": "../CambodiaDigitalBankingSystem.CORE/CambodiaDigitalBankingSystem.CORE.csproj"
+    },
+    "CambodiaDigitalBankingSystem.SHARED/1.0.0": {
+      "type": "project",
+      "path": "../CambodiaDigitalBankingSystem.SHARED/CambodiaDigitalBankingSystem.SHARED.csproj",
+      "msbuildProject": "../CambodiaDigitalBankingSystem.SHARED/CambodiaDigitalBankingSystem.SHARED.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "CambodiaDigitalBankingSystem.APPLICATION >= 1.0.0",
+      "CambodiaDigitalBankingSystem.CORE >= 1.0.0",
+      "CambodiaDigitalBankingSystem.SHARED >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bathI\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.INFRASTRUCTURE\\CambodiaDigitalBankingSystem.INFRASTRUCTURE.csproj",
+      "projectName": "CambodiaDigitalBankingSystem.INFRASTRUCTURE",
+      "projectPath": "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.INFRASTRUCTURE\\CambodiaDigitalBankingSystem.INFRASTRUCTURE.csproj",
+      "packagesPath": "C:\\Users\\bathI\\.nuget\\packages\\",
+      "outputPath": "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.INFRASTRUCTURE\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\bathI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.APPLICATION\\CambodiaDigitalBankingSystem.APPLICATION.csproj": {
+              "projectPath": "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.APPLICATION\\CambodiaDigitalBankingSystem.APPLICATION.csproj"
+            },
+            "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.CORE\\CambodiaDigitalBankingSystem.CORE.csproj": {
+              "projectPath": "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.CORE\\CambodiaDigitalBankingSystem.CORE.csproj"
+            },
+            "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.SHARED\\CambodiaDigitalBankingSystem.SHARED.csproj": {
+              "projectPath": "C:\\coding\\c#\\CambodiaDigitalBankingSystem\\CambodiaDigitalBankingSystem.SHARED\\CambodiaDigitalBankingSystem.SHARED.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

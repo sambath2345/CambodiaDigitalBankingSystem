@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CambodiaDigitalBankingSystem.CORE/1.0.0": {
+        "dependencies": {
+          "CambodiaDigitalBankingSystem.SHARED": "1.0.0"
+        },
+        "runtime": {
+          "CambodiaDigitalBankingSystem.CORE.dll": {}
+        }
+      },
+      "CambodiaDigitalBankingSystem.SHARED/1.0.0": {
+        "runtime": {
+          "CambodiaDigitalBankingSystem.SHARED.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CambodiaDigitalBankingSystem.CORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CambodiaDigitalBankingSystem.SHARED/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

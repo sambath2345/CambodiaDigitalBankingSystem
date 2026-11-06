@@ -1,0 +1,11 @@
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\bin\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.deps.json
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\bin\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\bin\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\obj\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\obj\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.AssemblyInfoInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\obj\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.AssemblyInfo.cs
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\obj\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.csproj.CoreCompileInputs.cache
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\obj\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\obj\Debug\net9.0\refint\CambodiaDigitalBankingSystem.LOGGING.dll
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\obj\Debug\net9.0\CambodiaDigitalBankingSystem.LOGGING.pdb
+C:\coding\c#\CambodiaDigitalBankingSystem\CambodiaDigitalBankingSystem.LOGGING\obj\Debug\net9.0\ref\CambodiaDigitalBankingSystem.LOGGING.dll
