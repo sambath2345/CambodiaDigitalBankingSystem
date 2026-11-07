@@ -4,3 +4,21 @@ GET {{CambodiaDigitalBankingSystem.API_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+# Expected: 404 with ApiResponse error envelope. Customer endpoints are not implemented.
+GET {{CambodiaDigitalBankingSystem.API_HostAddress}}/api/customers
+Accept: application/json
+
+###
+
+# Expected: 405. The weather endpoint accepts GET only.
+POST {{CambodiaDigitalBankingSystem.API_HostAddress}}/weatherforecast
+Accept: application/json
+
+###
+
+# Available only when ASPNETCORE_ENVIRONMENT=Development.
+GET {{CambodiaDigitalBankingSystem.API_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###

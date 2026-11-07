@@ -1,22 +1,21 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
-    <PropertyGroup>
-        <TargetFramework>net9.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-    </PropertyGroup>
-
-    <ItemGroup>
-      <Folder Include="DataAccess\" />
-      <Folder Include="Repository\" />
-      <Folder Include="Service\" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\CambodiaDigitalBankingSystem.APPLICATION\CambodiaDigitalBankingSystem.APPLICATION.csproj" />
-      <ProjectReference Include="..\CambodiaDigitalBankingSystem.CORE\CambodiaDigitalBankingSystem.CORE.csproj" />
-      <ProjectReference Include="..\CambodiaDigitalBankingSystem.SHARED\CambodiaDigitalBankingSystem.SHARED.csproj" />
-    </ItemGroup>
-
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Repository\" />
+    <Folder Include="Service\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CambodiaDigitalBankingSystem.APPLICATION\CambodiaDigitalBankingSystem.APPLICATION.csproj" />
+    <ProjectReference Include="..\CambodiaDigitalBankingSystem.CORE\CambodiaDigitalBankingSystem.CORE.csproj" />
+    <ProjectReference Include="..\CambodiaDigitalBankingSystem.SHARED\CambodiaDigitalBankingSystem.SHARED.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.89" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.11" />
+  </ItemGroup>
 </Project>
-

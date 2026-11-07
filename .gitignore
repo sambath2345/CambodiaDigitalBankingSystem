@@ -1,0 +1,21 @@
+# Build outputs (already tracked artifacts require a separate cleanup).
+**/bin/
+**/obj/
+.build-temp/
+
+# Local IDE state.
+.idea/
+.vs/
+*.user
+*.suo
+
+# Local credentials and environment overrides.
+.env
+.env.*
+!.env.example
+secrets.json
+**/secrets.json
+
+# Test output.
+TestResults/
+**/TestResults/

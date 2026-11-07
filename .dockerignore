@@ -4,6 +4,8 @@
 .vscode
 **/bin
 **/obj
+.build-temp
+**/TestResults
 **/node_modules
 **/*.user
 **/*.suo

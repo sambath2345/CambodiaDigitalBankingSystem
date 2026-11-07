@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambodiaDigitalBankingSyste
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", "{CD92EF4C-401D-44BF-A80A-EBFC57608E00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambodiaDigitalBankingSystem.TEST", "CambodiaDigitalBankingSystem.TEST\CambodiaDigitalBankingSystem.TEST.csproj", "{2FC0617A-603D-431A-99B1-DDE6A09FFC15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,12 @@ Global
 		{EC0911BF-28F9-4C1D-9F7A-9E80484C157C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC0911BF-28F9-4C1D-9F7A-9E80484C157C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC0911BF-28F9-4C1D-9F7A-9E80484C157C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC0617A-603D-431A-99B1-DDE6A09FFC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC0617A-603D-431A-99B1-DDE6A09FFC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC0617A-603D-431A-99B1-DDE6A09FFC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC0617A-603D-431A-99B1-DDE6A09FFC15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
-
